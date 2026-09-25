@@ -1,4 +1,5 @@
 
+
 Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상향 -Lotus Labyrinth R-)**<br>
 비공식 한국어 패치 프로젝트입니다.
 
