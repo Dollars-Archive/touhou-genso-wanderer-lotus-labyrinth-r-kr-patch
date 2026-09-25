@@ -121,6 +121,8 @@ Switch판 패치 적용 중 아래 두 옵션 중 하나를 선택할 수 있습
 - **대체 배경 사용**
 - **원본 게임 배경 유지**
 
+<img class="background-option-shot" alt="배경 이미지 선택" src="https://github.com/user-attachments/assets/1d282dcf-fcfb-44c6-a810-e8d0469c5939" />
+
 <img class="background-option-shot" alt="배경 이미지 변경 전후 비교" src="https://github.com/user-attachments/assets/6c8bb586-2061-43b2-b0aa-45d6d8dec1c3" />
 
 번역이나 게임 내용에는 차이가 없으며, 나중에 패처를 다시 실행해 변경할 수 있습니다.
