@@ -1,4 +1,4 @@
-# 이상한 환상향 -Lotus Labyrinth R- 한국어 패치
+<img width="1121" height="626" alt="스크린샷 2026-09-25 213447" src="https://github.com/user-attachments/assets/e014e0e6-cb32-4e06-9196-ec5022cfce2d" /># 이상한 환상향 -Lotus Labyrinth R- 한국어 패치
 
 Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상향 -Lotus Labyrinth R-)**<br>
 비공식 한국어 패치 프로젝트입니다.
@@ -21,8 +21,7 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 
 > 스토리 대사 및 이벤트 텍스트를 한국어화합니다.
 
-<!-- 대사 / 이벤트 스크린샷 추가 위치 -->
-
+<img width="1126" height="630" alt="스크린샷 2026-09-25 213245" src="https://github.com/user-attachments/assets/42f9681e-1fe6-4efa-a487-ecf8538ffab3" />
 
 <br>
 
@@ -30,7 +29,11 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 
 > 게임 진행에 사용되는 주요 메뉴와 UI 텍스트를 한국어화합니다.
 
-<!-- 메뉴 / UI 스크린샷 추가 위치 -->
+<img width="1127" height="629" alt="스크린샷 2026-09-25 213056" src="https://github.com/user-attachments/assets/0aff714d-e9a5-474c-8afe-6e45f649b869" />
+<img width="1130" height="625" alt="스크린샷 2026-09-25 213323" src="https://github.com/user-attachments/assets/18f2f3db-b26a-4f2b-b731-228a2c6a7090" />
+<img width="1121" height="623" alt="스크린샷 2026-09-25 213756" src="https://github.com/user-attachments/assets/00afe466-1dc4-4c3a-a73d-52e58a735f4c" />
+<img width="1120" height="625" alt="스크린샷 2026-09-25 213803" src="https://github.com/user-attachments/assets/53517de3-3339-467c-85f3-d5e57691aff4" />
+
 
 
 <br>
@@ -39,8 +42,8 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 
 > 아이템, 장비, 스킬 및 관련 설명문을 한국어화합니다.
 
-<!-- 아이템 / 장비 / 스킬 스크린샷 추가 위치 -->
-
+<img width="1121" height="623" alt="스크린샷 2026-09-25 213734" src="https://github.com/user-attachments/assets/e184a675-e111-48f4-a423-aedc2a4ad4e1" />
+<img width="1121" height="626" alt="스크린샷 2026-09-25 213447" src="https://github.com/user-attachments/assets/a3fc3d82-bb5b-4403-accd-942bc24913b2" />
 
 <br>
 
@@ -48,8 +51,11 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 
 > 캐릭터명과 캐릭터 관련 정보, 도감 및 설명 텍스트를 한국어화합니다.
 
-<!-- 캐릭터 / 도감 스크린샷 추가 위치 -->
-
+<img width="1125" height="626" alt="스크린샷 2026-09-25 213357" src="https://github.com/user-attachments/assets/f9028d00-809e-464f-a5c5-22c25bf1edf4" />
+<img width="1121" height="625" alt="스크린샷 2026-09-25 213346" src="https://github.com/user-attachments/assets/6baebdfb-5c77-409e-b391-d0f38473825a" />
+<img width="1125" height="622" alt="스크린샷 2026-09-25 213407" src="https://github.com/user-attachments/assets/35e7a78c-5490-48cf-b13a-448edc3a4f5d" />
+<img width="1119" height="622" alt="스크린샷 2026-09-25 213431" src="https://github.com/user-attachments/assets/ce1d21b3-7c37-42b5-8afa-c997ae579807" />
+<img width="1120" height="622" alt="스크린샷 2026-09-25 213423" src="https://github.com/user-attachments/assets/bee5c197-bca5-4cca-8f9d-5c3de6f126e6" />
 
 <br>
 
@@ -57,17 +63,7 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 
 > 튜토리얼 및 게임 내 이미지 자산 중 한국어화가 필요한 항목을 작업합니다.
 
-<!-- 튜토리얼 / 이미지 스크린샷 추가 위치 -->
-
-
-<br>
-
-### 기타 게임 내 텍스트
-
-> 던전, 지역, 시설, NPC 명칭을 포함한 게임 내 주요 텍스트를 한국어화합니다.
-
-<!-- 기타 게임 내 텍스트 스크린샷 추가 위치 -->
-
+<img width="1124" height="445" alt="스크린샷 2026-09-25 213141" src="https://github.com/user-attachments/assets/663646df-ec3c-454c-8016-a3a40705a7e8" />
 
 <br>
 
@@ -75,7 +71,6 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 
 > 한국어 패치 공개 후 최신 버전은 [Releases](https://github.com/Dollars-Archive/touhou-genso-wanderer-lotus-labyrinth-r-kr-patch/releases)에서 배포합니다.  
 > 설치 및 적용 방법은 배포 시 함께 안내할 예정입니다.
-
 
 <br>
 
