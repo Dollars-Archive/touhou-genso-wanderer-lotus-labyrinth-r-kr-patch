@@ -1,13 +1,12 @@
 # 이상한 환상향 -Lotus Labyrinth R- 한국어 패치
 
-PC / Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상향 -Lotus Labyrinth R-)**<br>
+Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상향 -Lotus Labyrinth R-)**<br>
 비공식 한국어 패치 프로젝트입니다.
 
 배포 시작 후 최신 버전은 [Releases](https://github.com/Dollars-Archive/touhou-genso-wanderer-lotus-labyrinth-r-kr-patch/releases)에서 받을 수 있습니다.
 
 ## 지원 게임 버전
 
-- **PC판**
 - **Nintendo Switch판**
 
 다른 버전에서는 정상 동작을 보장하지 않습니다.
