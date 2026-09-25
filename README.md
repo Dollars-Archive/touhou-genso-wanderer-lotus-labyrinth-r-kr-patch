@@ -1,4 +1,3 @@
-<img width="1121" height="626" alt="스크린샷 2026-09-25 213447" src="https://github.com/user-attachments/assets/e014e0e6-cb32-4e06-9196-ec5022cfce2d" /># 이상한 환상향 -Lotus Labyrinth R- 한국어 패치
 
 Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상향 -Lotus Labyrinth R-)**<br>
 비공식 한국어 패치 프로젝트입니다.
