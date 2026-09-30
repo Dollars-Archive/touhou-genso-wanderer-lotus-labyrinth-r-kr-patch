@@ -60,7 +60,6 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 
 > 아이템, 장비, 스킬 및 관련 설명문을 한국어화합니다.
 
-<img width="1121" height="623" alt="스크린샷 2026-09-25 213734" src="https://github.com/user-attachments/assets/e184a675-e111-48f4-a423-aedc2a4ad4e1" />
 <img width="1121" height="626" alt="스크린샷 2026-09-25 213447" src="https://github.com/user-attachments/assets/a3fc3d82-bb5b-4403-accd-942bc24913b2" />
 
 <br>
