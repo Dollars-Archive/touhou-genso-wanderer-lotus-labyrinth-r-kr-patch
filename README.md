@@ -10,9 +10,22 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 > [!TIP]
 > 설치 방법을 처음 보는 경우 GitHub의 `INSTALL.md` 원문보다 **[웹 설치 가이드](https://dollars-archive.github.io/touhou-genso-wanderer-lotus-labyrinth-r-kr-patch/)**에서 보는 것을 권장합니다.
 
-## 지원 게임 버전
+## 게임 정보
 
-- **Nintendo Switch판**
+| 항목 | 내용 |
+| --- | --- |
+| 원제 | 不思議の幻想郷 -ロータスラビリンスR- |
+| 플랫폼 | Nintendo Switch |
+| 장르 | 다인원 던전 탐색 RPG |
+| 일본 발매일 | 2021년 9월 30일 |
+| CERO | B (12세 이상) |
+| 지원 판본 | Nintendo Switch 일본판 |
+| Title ID | `0100A7A015E4C000` |
+| 패치 기준 업데이트 | 공식 Ver.1.0.1 (1.01) |
+
+> [!NOTE]
+> 패치에는 게임 본편이나 공식 업데이트 파일이 포함되어 있지 않습니다.  
+> **사용자가 직접 보유한 `0100A7A015E4C000` 원본과 공식 Ver.1.0.1 (1.01) 업데이트가 필요합니다.**
 
 다른 버전에서는 정상 동작을 보장하지 않습니다.
 
