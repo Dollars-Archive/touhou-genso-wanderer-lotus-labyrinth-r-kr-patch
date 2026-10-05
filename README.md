@@ -51,7 +51,6 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 ## 메뉴·UI
 > 게임 진행에 사용되는 주요 메뉴와 UI 텍스트를 한국어화합니다.
 
-<img width="80%" alt="스크린샷 2026-09-25 213056" src="https://github.com/user-attachments/assets/0aff714d-e9a5-474c-8afe-6e45f649b869" />
 <img width="80%" alt="스크린샷 2026-09-25 213323" src="https://github.com/user-attachments/assets/18f2f3db-b26a-4f2b-b731-228a2c6a7090" />
 <img width="80%" alt="스크린샷 2026-09-30 230446" src="https://github.com/user-attachments/assets/39cc06b1-d67e-4e11-a2c3-4e58b03c6efb" />
 <img width="80%" alt="스크린샷 2026-09-30 230453" src="https://github.com/user-attachments/assets/aee4806b-0384-4ebb-9650-e1dbc99a2d6b" />
