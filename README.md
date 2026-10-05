@@ -46,14 +46,9 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 
 ## 타이틀 한글화
 
-상태: 완료
+<img width="80%" alt="스크린샷 2026-09-25 213056" src="https://github.com/user-attachments/assets/0aff714d-e9a5-474c-8afe-6e45f649b869" />
 
 ## 메뉴·UI
-
-상태: 완료
-
-### 메뉴 / UI
-
 > 게임 진행에 사용되는 주요 메뉴와 UI 텍스트를 한국어화합니다.
 
 <img width="80%" alt="스크린샷 2026-09-25 213056" src="https://github.com/user-attachments/assets/0aff714d-e9a5-474c-8afe-6e45f649b869" />
@@ -61,9 +56,6 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 <img width="80%" alt="스크린샷 2026-09-30 230446" src="https://github.com/user-attachments/assets/39cc06b1-d67e-4e11-a2c3-4e58b03c6efb" />
 <img width="80%" alt="스크린샷 2026-09-30 230453" src="https://github.com/user-attachments/assets/aee4806b-0384-4ebb-9650-e1dbc99a2d6b" />
 <img width="80%" alt="스크린샷 2026-09-30 230509" src="https://github.com/user-attachments/assets/04da7611-4c71-42c9-9d0c-cc539b0f8e0f" />
-
-
-
 
 <br>
 
@@ -74,7 +66,6 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 <img width="80%" alt="스크린샷 2026-09-30 230804" src="https://github.com/user-attachments/assets/8a72a934-04b7-4fbb-9a5d-d377f576e4e3" />
 <img width="80%" alt="스크린샷 2026-09-30 230822" src="https://github.com/user-attachments/assets/b8f8c5a1-cd04-4bf3-89ba-3cc2ac75769e" />
 <img width="80%" alt="스크린샷 2026-09-30 231230" src="https://github.com/user-attachments/assets/89d010bb-6bca-49ab-8bd4-8f1368b804b7" />
-
 
 <br>
 
@@ -91,11 +82,6 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 <br>
 
 ## 대사
-
-상태: 완료
-
-### 대사 / 이벤트
-
 > 스토리 대사 및 이벤트 텍스트를 한국어화합니다.
 
 <img width="80%" alt="스크린샷 2026-09-25 213245" src="https://github.com/user-attachments/assets/42f9681e-1fe6-4efa-a487-ecf8538ffab3" />
@@ -103,21 +89,12 @@ Nintendo Switch판 **Touhou Genso Wanderer -Lotus Labyrinth R- (이상한 환상
 <br>
 
 ## 이미지 번역
-
-상태: 일부
-
-### 튜토리얼 / 이미지
-
 > 튜토리얼 및 게임 내 이미지 자산 중 한국어화가 필요한 항목을 작업합니다.
 
 <img width="80%" alt="스크린샷 2026-09-25 213141" src="https://github.com/user-attachments/assets/663646df-ec3c-454c-8016-a3a40705a7e8" />
 <img width="80%" alt="스크린샷 2026-09-30 230523" src="https://github.com/user-attachments/assets/49967339-39c2-454d-a3cc-259ab4832028" />
 
 <br>
-
-## 동영상 자막
-
-상태: 완료
 
 <!-- kr-patch:scope:v1:end -->
 
